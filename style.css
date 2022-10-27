@@ -77,7 +77,7 @@
 
 /* Heading */
 .heading,
-.task-add-container .label {
+.task-add-section .label {
   color: #333;
   font-weight: 700;
   font-size: 15px;
@@ -105,7 +105,7 @@
 }
 
 /* New Task */
-.task-add-container .label {
+.task-add-section .label {
   display: block;
   margin: 0 0 20px;
 }
